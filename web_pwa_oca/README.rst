@@ -95,6 +95,9 @@ To use your PWA:
 #. Open the Odoo web app using a supported browser (See https://caniuse.com/?search=A2HS)
 #. Open the browser options
 #. Click on 'Add to Home screen' (or 'Install' in other browsers)
+[updated 22-Oct-24]
+In Windows, in chrome browser, click 3 dots  on top right corner, select Cast, Save and Share, then select Install page as app...
+the desktop shortcut will be installed, (tested for local host server also)
 
 ** Maybe you need refresh the page to load the service worker after using the option.
 
